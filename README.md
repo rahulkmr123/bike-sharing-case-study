@@ -2,11 +2,10 @@
 
 
 ## General Information
-A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
+BoomBikes, a US bike-sharing provider, has faced revenue drops due to the COVID-19 pandemic. To recover, they aim to understand the factors affecting bike demand post-lockdown. They seek to identify significant variables predicting bike demand and how well these variables describe the demand.
 
-The company wants to know:
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
+## Business Goal:
+Model the demand for shared bikes using available independent variables. This model will help management understand demand dynamics and adjust business strategies to meet customer expectations and capture new market opportunities.
 
 ## Conclusions
 
